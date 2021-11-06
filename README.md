@@ -1,2 +1,2 @@
 # Mobile-Multimedia-Solution
-About My Mobile Multimedia Solution Program
+Mobile Multimedia Solution is a subject in Mobile Application & Technology Program that gives students the knowledge about the basic concept of Swift language and main features of iOS Platform. Learning Mobile Multimedia Solution will give students the ability to learn and develop mobile applications for a larger market based on iOS Platform. After completing this course, students should be able to know the fundamental knowledge about mobile application programming, design and develop mobile applications based on iOS Platform.
